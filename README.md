@@ -16,11 +16,11 @@ Tested on: GNU/Linux OS
 ## Usage
 ### if you have multi python versions
 
-python3.6 wordlist_generator.py -l <passwords_length> -a <alphabet_characters> -f <file_path>
+$ python3.6 wordlist_generator.py -l <passwords_length> -a <alphabet_characters> -f <file_path>
 
 ### if you have python 3.6 as default
 
-./wordlist_generator.py -l <passwords_length> -a <alphabet_characters> -f <file_path>
+$ ./wordlist_generator.py -l <passwords_length> -a <alphabet_characters> -f <file_path>
 
 ## Known Issues
 See [issues](https://github.com/pharaoh1337/wordlist_generator).
